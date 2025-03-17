@@ -1,0 +1,7 @@
+flask==2.3.2
+requests
+python-dotenv
+scikit-learn
+pandas
+numpy
+gunicorn
