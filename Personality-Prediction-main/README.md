@@ -16,9 +16,6 @@ Logistic regression Algorithm is used with Multinomial classfication.
 
 **Visulization**: Plotly.js
 
-## Deployed link
-
-https://personality-prediction-py39.onrender.com/
 
 ## Screenshots
 
